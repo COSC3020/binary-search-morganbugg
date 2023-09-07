@@ -17,8 +17,9 @@ function binarySearch(list, element) {
 }
 
 
-/**
+/*
  * References:
  * https://en.wikipedia.org/wiki/Binary_search_algorithm to understand 
- * different possible procedures for binary search
+ * different possible procedures for binary search when problems were
+ * encountered with tests
  */
